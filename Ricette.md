@@ -6,5 +6,6 @@ Questo archivio contiene tuttr le ricette preferite di Cleve
 *Risotto ai funghi
 *Pennette alla carbonara
 *Minestrone di Verdure
+*Salmone al cartoccio
 
 
