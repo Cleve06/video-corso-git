@@ -1,4 +1,9 @@
-# ricetta con ingrediente segreto
+# Appunti Corso Git Github
 
-*Spaghetti aglio, olio e peperoncino
+## Autore
+* Manuel
+
+## Collaboratori
+* Cleve
+
 
